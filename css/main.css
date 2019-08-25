@@ -1521,7 +1521,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #81b599;
+  background: #ff49f5;
 }
 .feed-link,
 .chat {
@@ -2815,13 +2815,11 @@ ul.breadcrumb li+li:last-child {
     margin: 8px 0 0;
   }
 }
-/*表格文字居中*/
 caption,
 th,
 td {
   text-align: center;
 }
-/*footer SiteMap*/
 .sitemap {
   display: inline-block;
 }
